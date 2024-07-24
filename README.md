@@ -52,7 +52,6 @@ php artisan serve
 ```
 
 ## Finaly !
-- After Login, Click on top right button (Todo-List) to see tasks list 
 - There is no tasks seeded by default try to add some tasks
 - or visit the link below.
 ```bash
